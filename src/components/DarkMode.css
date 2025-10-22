@@ -51,7 +51,7 @@
     position: absolute;
     width: 20px;
     top: 7px;
-    z-index: 100;
+    z-index: 10;
 }
 
 .dark_mode_label .moon {
@@ -61,7 +61,7 @@
     position: absolute;
     width: 20px;
     top: 7px;
-    z-index: 100;
+    z-index: 10;
 }
 .dark_mode_input:checked + .dark_mode_label .sun {
     fill: #7e7e7e;

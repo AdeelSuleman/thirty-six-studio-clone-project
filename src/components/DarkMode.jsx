@@ -69,7 +69,7 @@ const DarkMode = () => {
             />
             <label className="dark_mode_label" htmlFor="darkmode-toggle">
                 <MdSunny className="sun" />
-                <IoMoonSharp className="moon " />
+                <IoMoonSharp className="moon" />
             </label>
         </div>
     )
